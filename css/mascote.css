@@ -1,0 +1,15 @@
+.mascote1 {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	height: 800px;
+	width: auto;
+}
+
+.mascote2 {
+	position: fixed;
+	bottom: 120px;
+	right: 0px;
+	height: 500px;
+	width: auto;
+}
